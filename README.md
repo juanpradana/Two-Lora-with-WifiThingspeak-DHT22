@@ -3,6 +3,8 @@ This repository for one ESP32 as gateway where it will send all data to Thingspe
 
 ![Lora e32-433t30d](https://www.ebyte.com/Uploadfiles/Picture/2021-5-25/20215251730359457.jpg)
 
+![DHT22](https://components101.com/sites/default/files/components/DHT22-Sensor.jpg)
+
 # Wiring
 ## LoRa
 ESP32 >>  Lora e32-433t30d
