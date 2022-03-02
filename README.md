@@ -38,6 +38,6 @@ CountOut is used for counting failed queue data from station, when countOut is 3
 Time delay set to 20 seconds cause free ThingSpeak just can received new data for every 15 seconds.
 
 # ThingSpeak Channel
-![image](https://user-images.githubusercontent.com/30497994/156347232-bd50ba1b-3db4-4d4e-bf91-8d34531b6ae8.png)
+![image](https://user-images.githubusercontent.com/30497994/156348150-6f258c90-9bb3-4539-b5f4-2b907db0f152.png)
 
 https://thingspeak.com/channels/1640665
